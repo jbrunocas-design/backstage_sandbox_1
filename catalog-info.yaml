@@ -5,7 +5,7 @@ metadata:
   description: Ejemplo de prueba para Backstage
   tags:
     - ejemplo
-  spec:
-    type: service
-    lifecycle: experimental
-    owner: default/owner
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default/owner
