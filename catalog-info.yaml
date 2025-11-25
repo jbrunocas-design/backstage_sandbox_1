@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "hello-world"
-  description: "Ejemplo de prueba para Backstage"
+  name: hello-world
+  description: 'Ejemplo de prueba para Backstage'
   tags:
     - ejemplo
 spec:
